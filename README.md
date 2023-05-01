@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danya</h1>
-<h3 align="center">A passionate frontend developer from Mordor</h3>
+<h3 align="center">A passionate frontend developer from Moscow</h3>
 
 - 🌱 I’m currently learning **NodeJS, Next**
 
