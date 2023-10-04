@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://brygmos.netlify.app/](https://brygmos.netlify.app/)
 
-- 📫 How to reach me **daniel-best@yandex.ru**
+- 📫 How to reach me **brygmos@yandex.ru**
 
 <h3 align="left"Socials:</h3>
 <p align="left">
