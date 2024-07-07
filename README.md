@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danya</h1>
 <h3 align="center">A passionate frontend developer from Moscow</h3>
 
-- 🌱 I’m currently learning **NodeJS, Next**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://brygmos.netlify.app/](https://brygmos.netlify.app/)
 
